@@ -14,5 +14,16 @@ public class Days {
 		System.out.println("Day3");
 
 	}
-	
+	private void Wednesday() {
+		System.out.println("Day4");
+		
+	}
+	private void Thursday() {
+		System.out.println("Day5");
+
+	}
+	private void Friday() {
+		System.out.println("Day6");
+
+	}
 }
